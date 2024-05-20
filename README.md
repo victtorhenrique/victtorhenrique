@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working QA 
-- 🌱 I’m currently learning PHP,Html, CSS, Java Script, Python, Automation with Selenium and Python
+- 🌱 I’m currently learning Robot Framework, Cypress, Java Script, Python, Automation with Selenium and Python
 - 💬 Ask me about [here](https://www.linkedin.com/in/victtor-henrique-96653919b/)
 
 ![Victtor GitHub stats](https://github-readme-stats.vercel.app/api?username=victtorhenrique&show_icons=true&theme=dark)
